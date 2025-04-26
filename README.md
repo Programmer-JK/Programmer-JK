@@ -1,12 +1,21 @@
 # 👋 Hi there, I'm Park JongKwon
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Programmer-JK&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Programmer-JK&theme=tokyonight" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Programmer-JK&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <table>
+    <tr>
+      <td width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=Programmer-JK&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="100%" />
+      </td>
+      <td width="50%">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Programmer-JK&theme=tokyonight" alt="GitHub Streak" width="100%" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Programmer-JK&layout=compact&theme=tokyonight" alt="Top Languages" width="100%" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ## 🚀 About Me
