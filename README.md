@@ -1,19 +1,13 @@
 # 👋 Hi there, I'm Park JongKwon
 
-<div align="center">
-  <table border="0" cellspacing="0" cellpadding="0" style="border:none;">
-    <tr>
-      <td width="50%" style="border:none;">
-        <img src="https://github-readme-stats.vercel.app/api?username=Programmer-JK&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="100%" />
-      </td>
-      <td width="50%" style="border:none;">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Programmer-JK&theme=tokyonight" alt="GitHub Streak" width="100%" />
-      </td>
-    </tr>
-  </table>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Programmer-JK&layout=compact&theme=tokyonight" alt="Top Languages" width="70%" />
+<div align="center" style="display:flex; gap:10px; justify-content:center; margin:0; padding:0;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Programmer-JK&show_icons=true&theme=tokyonight" alt="GitHub Stats" style="margin:0; padding:0; border:none;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Programmer-JK&theme=tokyonight" alt="GitHub Streak" style="margin:0; padding:0; border:none;" />
 </div>
-🚀 About Me
+<div align="center" style="margin:0; padding:0;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Programmer-JK&layout=compact&langs_count=8&card_width=800&theme=tokyonight&hide_border=true" alt="Top Languages" width="80%" style="margin:0; padding:0; border:none;" />
+</div>
+## 🚀 About Me
 Full Stack Developer with expertise in front-end, back-end, and mobile development. Passionate about creating efficient and user-friendly applications with a focus on technical problem-solving and cross-cultural collaboration.
 
 ## 🛠️ Technical Skills
