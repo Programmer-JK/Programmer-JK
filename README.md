@@ -5,24 +5,15 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Programmer-JK&theme=tokyonight&hide_border=true" alt="GitHub Streak" style="margin:0; padding:0; border:none;" />
 </div>
 
-## 💻 Most Used Languages
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,vue,css,html,python,kotlin&perline=7" />
-</div>
-<div align="center">
-  <code>JavaScript 52.16%</code> •
-  <code>TypeScript 28.29%</code> •
-  <code>Vue 7.05%</code> •
-  <code>SCSS 5.98%</code> •
-  <code>Kotlin 3.38%</code> •
-  <code>CSS 1.77%</code> •
-  <code>HTML 1.26%</code> •
-  <code>Python 0.09%</code>
-</div>
-
 ## 🚀 About Me
 Full Stack Developer with expertise in front-end, back-end, and mobile development. Passionate about creating efficient and user-friendly applications with a focus on technical problem-solving and cross-cultural collaboration.
+
+## 🛠 Most Used Languages
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Programmer-JK&layout=compact&langs_count=8&card_width=800&theme=tokyonight&hide_border=true" alt="Top Languages" width="100%" style="margin:0; padding:0; border:none;" />
+</div>
+
+
 
 ## 🛠️ Technical Skills
 
