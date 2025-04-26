@@ -4,14 +4,14 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Programmer-JK&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" style="margin:0; padding:0; border:none;" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Programmer-JK&theme=tokyonight&hide_border=true" alt="GitHub Streak" style="margin:0; padding:0; border:none;" />
 </div>
-
-## 🚀 About Me
-Full Stack Developer with expertise in front-end, back-end, and mobile development. Passionate about creating efficient and user-friendly applications with a focus on technical problem-solving and cross-cultural collaboration.
-
-## 🛠 Most Used Languages
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Programmer-JK&layout=compact&langs_count=8&card_width=800&theme=tokyonight&hide_border=true" alt="Top Languages" width="100%" style="margin:0; padding:0; border:none;" />
 </div>
+
+
+
+## 🚀 About Me
+Full Stack Developer with expertise in front-end, back-end, and mobile development. Passionate about creating efficient and user-friendly applications with a focus on technical problem-solving and cross-cultural collaboration.
 
 
 
