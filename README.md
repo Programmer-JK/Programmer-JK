@@ -1,4 +1,4 @@
-# 👋 안녕하세요! 생각하고 소통하는 엔지니어, 박종권입니다.
+# 👋 생각하고 소통하는 엔지니어, 박종권입니다.
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Programmer-JK&layout=compact&langs_count=8&card_width=800&theme=tokyonight&hide_border=true" alt="Top Languages" width="100%" style="margin:0; padding:0; border:none;" />
