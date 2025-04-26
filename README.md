@@ -1,34 +1,69 @@
-# 📝 Education
-   - 2017.03 ~ 2022.02 한성대학교 컴퓨터공학부 학사 졸업
+# 👋 Hi there, I'm Park JongKwon
 
-# ⚙️ Skills
-   - Front-End: JavaScript, TypeScript, HTML/CSS, JQuery, Vue.js
-   - Back-End: Java, Python, R
-   - Native: Kotlin
-   - Database: Mssql, Oracle
-   - Monitoring: AWS CloudWatch
-   - IDE & Tools: Eclipse, IntelliJ, DBeaver, Vscode, android studio, Xcode
-   - ETC: Git, SVN, Notion, JIRA, Redmine
-     
-# 📋 Working experience
-   ### Mobile C&C 아모레 운영팀 ( 2022.08 ~ 2023.12 )
-   - #### 아모레퍼시픽 관련 WEB Application 유지보수 및 운영
-   - #### 사내 유틸 관리 사이트 유지보수 및 운영
-   - #### 사내 자산 관리 사이트 SI 개발
-      
-   ### Mobile C&C Cambodia ( 2024.01 ~ 2024.08 )
-   - #### 캄보디아-한국 프론트엔드 및 네이티브 서포트
-      - 한국 본사와 캄보디아 현지 법인 간 기술 및 의사소통 가교 역할 수행
-      - 프론트엔드 및 네이티브 앱 개발 분야에서 양 지사 간 기술 지원 및 조율
-   - #### bizMOB 플랫폼 Cambodia 클라이언트 담당자
-      - ##### smartBiz 전환 프로젝트 
-         - 사용 언어 : Vue.js 3.0, Kotlin, Swift
-         - 프로젝트 기간 : 2 Months
-         - smartBiz 기업 모바일 뱅킹 앱 Migration 프로젝트 한국인 매니저로 참여 (Angular -> Vue.js)
-         - 오픈 후 모니터링과 유지보수
-      - ##### 개발자 역량 강화 이니셔티브 주도
-         - 현지 직원 교육 플랫폼 개발: Docusaurus (정적 사이트 생성 프레임워크) 사용 영문 개발자 가이드 사이트 개발 및 운영 
-         - 클라이언트와 네이티브 상호간의 소통 및 개발 용이성을 위한 Technical App 설계 및 개발 진행 
-      - ##### 캄보디아 지사 홈페이지 콘텐츠 개발 및 운영
-      - ##### npm 사설 registry R&D
-      - ##### Electron+Vue R&D
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Programmer-JK&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Programmer-JK&theme=tokyonight" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Programmer-JK&layout=compact&theme=tokyonight" alt="Top Languages" />
+</div>
+
+## 🚀 About Me
+Full Stack Developer with expertise in front-end, back-end, and mobile development. Passionate about creating efficient and user-friendly applications with a focus on technical problem-solving and cross-cultural collaboration.
+
+## 🛠️ Technical Skills
+
+<div align="center">
+
+### 💻 Programming & Markup Languages
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,java,python,r,kotlin,svg)](https://skillicons.dev)
+
+### 🔧 Frameworks & Libraries
+[![My Skills](https://skillicons.dev/icons?i=vue,jquery,react,bootstrap)](https://skillicons.dev)
+
+### 🗄️ Databases & Cloud
+[![My Skills](https://skillicons.dev/icons?i=mysql,oracle,aws)](https://skillicons.dev)
+
+### 🔨 Tools & Platforms
+[![My Skills](https://skillicons.dev/icons?i=git,vscode,idea,eclipse,androidstudio)](https://skillicons.dev)
+
+</div>
+
+## 🧰 Tech Stack Proficiency
+
+<div align="center">
+  
+### Front-End
+![JavaScript](https://img.shields.io/badge/JavaScript-★★★★★-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-★★★★☆-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-★★★★★-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-★★★☆☆-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-★★★★☆-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+
+### Back-End
+![Java](https://img.shields.io/badge/Java-★★☆☆☆-007396?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-★★☆☆☆-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-★★☆☆☆-276DC3?style=for-the-badge&logo=r&logoColor=white)
+
+### Mobile
+![Kotlin](https://img.shields.io/badge/Kotlin-★★☆☆☆-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-★★☆☆☆-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+
+</div>
+
+## 📫 How to reach me
+- 📧 Email: qkrwhd14@naver.com
+- 🔗 LinkedIn: [My LinkedIn](https://www.linkedin.com/in/jk-park-90bb73267/)
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Programmer-JK&color=blueviolet" alt="Profile views" />
+  
+  ### 📊 GitHub Activity
+  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Programmer-JK&theme=tokyo-night)
+  
+  ### 🏆 GitHub Trophies
+  ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Programmer-JK&theme=nord&column=7)
+</div>
