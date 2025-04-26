@@ -61,6 +61,16 @@
 
 </div>
 
+## 📚 Currently Learning
+- 프론트엔드 툴 개발 방법론에 대해 고민중이며 시도중
+- Clean Architecture 및 테스트 코드 작성에 대해 학습 중
+- 통합 플랫폼 서비스를 만들기 위한 기술 스택 분석 중
+
+## ☕ Fun Facts
+- 여행 가서 새로운 사람들과 수다 나누면서 웃는 걸 좋아해요
+- 달달한 디저트랑 귀여운 건 완전 환영이에요!
+- 산책 lover라 산책을 자주 가는데, 가끔씩 길 헤매요..
+
 ## ✍️ Blog
 - [개발 블로그(docusaurus)](https://programmer-jk.github.io/zora_story/)
 
