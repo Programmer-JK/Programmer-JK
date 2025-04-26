@@ -1,4 +1,4 @@
-# 👋 생각하고 소통하는 엔지니어, 박종권입니다.
+# 👋 생각하며 소통하는 개발자, 박종권입니다.
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Programmer-JK&layout=compact&langs_count=8&card_width=800&theme=tokyonight&hide_border=true" alt="Top Languages" width="100%" style="margin:0; padding:0; border:none;" />
@@ -15,7 +15,9 @@
 </p>
 
 ## 🚀 About Me
-프론트엔드, 백엔드, 그리고 모바일 개발에 관심이 많은 풀스택 개발자 지망생이자, 3년 차 프론트엔드 엔지니어 박종권입니다. 사용자들이 쉽게 접근할 수 있는 서비스를 개발하고, 기술적인 문제를 효과적으로 해결하는 데에 큰 흥미를 가지고 있습니다. 다양한 문화 속에서 함께 협업하며 지속적으로 성장하는 개발자가 되고 싶습니다.
+프론트엔드, 백엔드, 그리고 모바일 개발에 관심이 많은 풀스택 개발자 지망생이자, 3년 차 프론트엔드 엔지니어 박종권입니다.  
+사용자 친화적인 서비스를 만드는 것과 기술 문제를 효과적으로 해결하는 데에 흥미를 느끼며,  
+다양한 문화 속에서 협업하며 함께 성장하는 개발자가 되고자 합니다.
 
 
 
@@ -62,5 +64,5 @@
 ## 📫 How to reach me
 - 📧 Email: qkrwhd14@naver.com
 - 🔗 LinkedIn: [My LinkedIn](https://www.linkedin.com/in/jk-park-90bb73267/)
-
+**언제든지 편하게 연락주세요!**
 ---
