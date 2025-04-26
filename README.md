@@ -5,10 +5,13 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Programmer-JK&show_icons=true&theme=tokyonight&hide_border=true" width="49%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Programmer-JK&theme=tokyonight&hide_border=true" width="49%" alt="GitHub Streak" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=Programmer-JK&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="49%" height="190px" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Programmer-JK&theme=tokyonight&hide_border=true" width="49%" height="190px" alt="GitHub Streak" />
+  </a>
 </div>
-
 
 ## 🚀 About Me
 Full Stack Developer with expertise in front-end, back-end, and mobile development. Passionate about creating efficient and user-friendly applications with a focus on technical problem-solving and cross-cultural collaboration.
