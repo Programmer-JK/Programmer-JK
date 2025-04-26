@@ -64,10 +64,3 @@
 - 🔗 LinkedIn: [My LinkedIn](https://www.linkedin.com/in/jk-park-90bb73267/)
 
 ---
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Programmer-JK&color=blueviolet" alt="Profile views" />
-  
-  ### 📊 GitHub Activity
-  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Programmer-JK&theme=tokyo-night)
-</div>
