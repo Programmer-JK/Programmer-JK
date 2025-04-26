@@ -1,24 +1,19 @@
 # 👋 Hi there, I'm Park JongKwon
 
 <div align="center">
-  <table>
+  <table border="0" cellspacing="0" cellpadding="0" style="border:none;">
     <tr>
-      <td width="50%">
+      <td width="50%" style="border:none;">
         <img src="https://github-readme-stats.vercel.app/api?username=Programmer-JK&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="100%" />
       </td>
-      <td width="50%">
+      <td width="50%" style="border:none;">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=Programmer-JK&theme=tokyonight" alt="GitHub Streak" width="100%" />
       </td>
     </tr>
-    <tr>
-      <td colspan="2">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Programmer-JK&layout=compact&theme=tokyonight" alt="Top Languages" width="100%" />
-      </td>
-    </tr>
   </table>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Programmer-JK&layout=compact&theme=tokyonight" alt="Top Languages" width="70%" />
 </div>
-
-## 🚀 About Me
+🚀 About Me
 Full Stack Developer with expertise in front-end, back-end, and mobile development. Passionate about creating efficient and user-friendly applications with a focus on technical problem-solving and cross-cultural collaboration.
 
 ## 🛠️ Technical Skills
@@ -72,7 +67,4 @@ Full Stack Developer with expertise in front-end, back-end, and mobile developme
   
   ### 📊 GitHub Activity
   ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Programmer-JK&theme=tokyo-night)
-  
-  ### 🏆 GitHub Trophies
-  ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Programmer-JK&theme=nord&column=7)
 </div>
