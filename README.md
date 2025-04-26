@@ -61,6 +61,9 @@
 
 </div>
 
+## ✍️ Blog
+- [개발 블로그(docusaurus)](https://programmer-jk.github.io/zora_story/)
+
 ## 📫 How to reach me
 - 📧 Email: qkrwhd14@naver.com
 - 🔗 LinkedIn: [My LinkedIn](https://www.linkedin.com/in/jk-park-90bb73267/)
