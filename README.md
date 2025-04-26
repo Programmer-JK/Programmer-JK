@@ -4,14 +4,15 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Programmer-JK&layout=compact&langs_count=8&card_width=800&theme=tokyonight&hide_border=true" alt="Top Languages" width="100%" style="margin:0; padding:0; border:none;" />
 </div>
 
-<div align="center">
+<p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=Programmer-JK&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="49%" height="190px" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Programmer-JK&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="100%" alt="GitHub Stats" />
   </a>
+  <br/>
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Programmer-JK&theme=tokyonight&hide_border=true" width="49%" height="190px" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Programmer-JK&theme=tokyonight&hide_border=true" width="100%" alt="GitHub Streak" />
   </a>
-</div>
+</p>
 
 ## 🚀 About Me
 Full Stack Developer with expertise in front-end, back-end, and mobile development. Passionate about creating efficient and user-friendly applications with a focus on technical problem-solving and cross-cultural collaboration.
